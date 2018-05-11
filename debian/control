@@ -7,7 +7,7 @@ Uploaders: Marcus Better <marcus@better.se>,
            Jakub Adam <jakub.adam@ktknet.cz>
 Build-Depends: ant (>= 1.6.3),
                cup,
-               debhelper (>= 10),
+               debhelper (>= 11),
                default-jdk,
                javahelper,
                jlex,
