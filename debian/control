@@ -18,7 +18,7 @@ Build-Depends: ant (>= 1.6.3),
                libstylebook-java (>> 1.0~b3~svn20061109-4),
                libxerces2-java (>= 2.8.0),
                maven-repo-helper
-Standards-Version: 4.1.1
+Standards-Version: 4.1.4
 Vcs-Git: https://anonscm.debian.org/git/pkg-java/libxalan2-java.git
 Vcs-Browser: https://anonscm.debian.org/cgit/pkg-java/libxalan2-java.git
 Homepage: http://xalan.apache.org/xalan-j/
