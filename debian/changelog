@@ -1,3 +1,14 @@
+libxalan2-java (2.7.2-2) unstable; urgency=medium
+
+  * Team upload.
+  * Switch to compat level 11.
+  * Declare compliance with Debian Policy 4.1.4.
+  * Use source/target 1.7.
+  * Add java10.patch and fix FTBFS with Java 9 and Java 10. The bootclasspath
+    option was removed upstream. (Closes: #893295)
+
+ -- Markus Koschany <apo@debian.org>  Fri, 11 May 2018 18:28:08 +0200
+
 libxalan2-java (2.7.2-1) unstable; urgency=medium
 
   * Team upload.
