@@ -1,3 +1,9 @@
+libxalan2-java (2.7.2-2ubuntu1bb1) balabit-os-7.0; urgency=medium
+
+  * Imported Java11 followups from debian
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Mon, 12 Nov 2018 14:44:04 +0100
+
 libxalan2-java (2.7.2-2) unstable; urgency=medium
 
   * Team upload.
